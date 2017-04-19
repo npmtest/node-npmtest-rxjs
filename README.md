@@ -1,7 +1,10 @@
-# test coverage for  [rxjs (v5.3.0)](https://github.com/ReactiveX/RxJS)  [![npm package](https://img.shields.io/npm/v/npmtest-rxjs.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-rxjs) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-rxjs.svg)](https://travis-ci.org/npmtest/node-npmtest-rxjs)
+# npmtest-rxjs
+
+#### test coverage for  [rxjs (v5.3.0)](https://github.com/ReactiveX/RxJS)  [![npm package](https://img.shields.io/npm/v/npmtest-rxjs.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-rxjs) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-rxjs.svg)](https://travis-ci.org/npmtest/node-npmtest-rxjs)
+
 #### Reactive Extensions for modern JavaScript
 
-[![NPM](https://nodei.co/npm/rxjs.png?downloads=true)](https://www.npmjs.com/package/rxjs)
+[![NPM](https://nodei.co/npm/rxjs.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/rxjs)
 
 | git-branch : | [alpha](https://github.com/npmtest/node-npmtest-rxjs/tree/alpha)|
 |--:|:--|
@@ -9,11 +12,17 @@
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-rxjs/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-rxjs/build/test-report.html)|
 | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-rxjs/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-rxjs/tree/gh-pages/build)|
 
-[![istanbul-coverage](https://npmtest.github.io/node-npmtest-rxjs/build/screenCapture.buildCustomOrg.browser.coverage.html.png)](https://npmtest.github.io/node-npmtest-rxjs/build/coverage.html/index.html)
+- [https://npmtest.github.io/node-npmtest-rxjs/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-rxjs/build/coverage.html/index.html)
 
-[![test-report](https://npmtest.github.io/node-npmtest-rxjs/build/screenCapture.buildCustomOrg.browser.%252Fhome%252Ftravis%252Fbuild%252Fnpmtest%252Fnode-npmtest-rxjs%252Ftmp%252Fbuild%252Ftest-report.html.png)](https://npmtest.github.io/node-npmtest-rxjs/build/test-report.html)
+[![istanbul-coverage](https://npmtest.github.io/node-npmtest-rxjs/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fcoverage.lib.html.png)](https://npmtest.github.io/node-npmtest-rxjs/build/coverage.html/index.html)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-rxjs/build/screenCapture.buildApidoc.browser.%252Fhome%252Ftravis%252Fbuild%252Fnpmdoc%252Fnode-npmdoc-rxjs%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-rxjs/build/apidoc.html)
+- [https://npmtest.github.io/node-npmtest-rxjs/build/test-report.html](https://npmtest.github.io/node-npmtest-rxjs/build/test-report.html)
+
+[![test-report](https://npmtest.github.io/node-npmtest-rxjs/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Ftest-report.html.png)](https://npmtest.github.io/node-npmtest-rxjs/build/test-report.html)
+
+- [https://npmdoc.github.io/node-npmdoc-rxjs/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-rxjs/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-rxjs/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-rxjs/build/apidoc.html)
 
 ![npmPackageListing](https://npmtest.github.io/node-npmtest-rxjs/build/screenCapture.npmPackageListing.svg)
 
@@ -27,8 +36,7 @@
 
 {
     "author": {
-        "name": "Ben Lesh",
-        "email": "ben@benlesh.com"
+        "name": "Ben Lesh"
     },
     "bugs": {
         "url": "https://github.com/ReactiveX/RxJS/issues"
@@ -40,28 +48,22 @@
     },
     "contributors": [
         {
-            "name": "Ben Lesh",
-            "email": "ben@benlesh.com"
+            "name": "Ben Lesh"
         },
         {
-            "name": "Paul Taylor",
-            "email": "paul.e.taylor@me.com"
+            "name": "Paul Taylor"
         },
         {
-            "name": "Jeff Cross",
-            "email": "crossj@google.com"
+            "name": "Jeff Cross"
         },
         {
-            "name": "Matthew Podwysocki",
-            "email": "matthewp@microsoft.com"
+            "name": "Matthew Podwysocki"
         },
         {
-            "name": "OJ Kwon",
-            "email": "kwon.ohjoong@gmail.com"
+            "name": "OJ Kwon"
         },
         {
-            "name": "Andre Staltz",
-            "email": "andre@staltz.com"
+            "name": "Andre Staltz"
         }
     ],
     "dependencies": {
@@ -155,17 +157,14 @@
     "main": "Rx.js",
     "maintainers": [
         {
-            "name": "blesh",
-            "email": "ben@benlesh.com"
+            "name": "blesh"
         },
         {
-            "name": "jeffbcross",
-            "email": "middlefloor@gmail.com"
+            "name": "jeffbcross"
         }
     ],
     "name": "rxjs",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git+ssh://git@github.com/ReactiveX/RxJS.git"
