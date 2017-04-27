@@ -1,6 +1,6 @@
 # npmtest-rxjs
 
-#### test coverage for  [rxjs (v5.3.0)](https://github.com/ReactiveX/RxJS)  [![npm package](https://img.shields.io/npm/v/npmtest-rxjs.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-rxjs) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-rxjs.svg)](https://travis-ci.org/npmtest/node-npmtest-rxjs)
+#### basic test coverage for  [rxjs (v5.3.0)](https://github.com/ReactiveX/RxJS)  [![npm package](https://img.shields.io/npm/v/npmtest-rxjs.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-rxjs) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-rxjs.svg)](https://travis-ci.org/npmtest/node-npmtest-rxjs)
 
 #### Reactive Extensions for modern JavaScript
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-rxjs/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-rxjs/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-rxjs/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-rxjs/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-rxjs/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-rxjs/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-rxjs/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-rxjs/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-rxjs/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-rxjs/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-rxjs/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-rxjs/build/coverage.html/index.html)
 
@@ -204,7 +204,8 @@
         "watch": "Watch codebase, trigger compile when source code changes"
     },
     "typings": "Rx.d.ts",
-    "version": "5.3.0"
+    "version": "5.3.0",
+    "bin": {}
 }
 ```
 
